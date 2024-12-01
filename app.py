@@ -6,7 +6,7 @@ import json
 app = Flask(__name__)
 
 # API Configuration
-API_KEY = "5d4bf58fe9msh26860649e4a334ep179efbjsnfa5d03ded9aa"  # Your API key
+API_KEY = "93b85bbb0amsha312a5f39a19574p19e719jsn5cd767e9f71b"  # Your API key
 API_HOST = "body-mass-index-bmi-calculator.p.rapidapi.com"  # API host
 
 # Sample workout and meal plans data (mock data based on BMI category)
