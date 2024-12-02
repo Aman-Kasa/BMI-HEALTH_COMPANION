@@ -37,6 +37,23 @@ API Key: Make sure to sign up at RapidAPI to obtain your API key.
 
 4) Input your weight and height in the respective fields and click Calculate to get your BMI and health status.
 
+   
+   # Here’s a list of file types and directories in a .gitignore file:
+
+1) Environment files: .env, .env.template
+
+2) Virtual environments: venv/, myenv/
+
+3) Node dependencies: node_modules/
+
+4) OS-generated files: .DS_Store (macOS), Thumbs.db (Windows)
+
+5) Compiled code: .pyc, .pyo, __pycache__/
+
+6) Logs: *.log
+    Secrets: *.key, *.pem
+   
+
    # Deployment
 
 1) The application is deployed on a web server and can be accessed through the provided URL.
